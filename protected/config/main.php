@@ -61,9 +61,9 @@ if (! empty ( $files )) {
 
 return array (
 		'basePath' => dirname ( __FILE__ ) . DIRECTORY_SEPARATOR . '..',
-		'name' => 'My Web Application',
+		'name' => 'wox system',
 		'defaultController' => 'site',
-		'language' => 'en', //
+		'language' => 'zh_cn', //
 		'theme' => 'bluewind', // 模板主题
 		'charset' => 'UTF-8',
 		

@@ -85,7 +85,7 @@ class RightsModule extends CWebModule
 	/**
 	* @property boolean whether to enable debug mode.
 	*/
-	public $debug = false;
+	public $debug = true;
 
 	private $_assetsUrl;
 
